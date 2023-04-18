@@ -1,13 +1,11 @@
-import './Botao.css'
+import "./Botao.css";
 
 const Botao = (props) => {
-    return(
-        <div>
-            <button className='botao'>
-                {props.texto}
-            </button>
-        </div>
-    )
-}
+  return (
+    <div>
+      <button className="botao">{props.texto}</button>
+    </div>
+  );
+};
 
-export default Botao
+export default Botao;
