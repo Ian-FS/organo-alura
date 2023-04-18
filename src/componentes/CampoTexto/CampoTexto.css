@@ -7,6 +7,7 @@
     margin-bottom: 8px;
     font-size: 24px;
 }
+
 .campo-texto input {
     background-color: #fff;
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
@@ -14,6 +15,6 @@
     border-radius: 6px;
     border: none;
     font-size: 24px;
-    padding: 24px;
+    padding: 20px;
     box-sizing: border-box;
 }
